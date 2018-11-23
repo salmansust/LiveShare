@@ -28,13 +28,13 @@ class PagesController extends Controller
     	return view ('broadcast');
     }
  
- public function getVediocon(){
+ public function getVideocon(){
 
-    	return view ('vediocon');
+    	return view ('videocon');
     }
- public function getVediochat(){
+ public function getVideochat(){
 
-    	return view ('vediochat');
+    	return view ('videochat');
 
     }
 
